@@ -111,7 +111,6 @@ public class MemberListFrame extends JFrame {
 				Object id = table.getValueAt(row, 0);
 				tableModel.removeRow(row);
 				MemberDao dao = MemberDao.getInstance();
-				dao.delete((int)id);
 			}
 		});
 

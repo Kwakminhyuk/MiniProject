@@ -43,29 +43,29 @@ public class LoginFrame extends JFrame {
 		contentPane.setLayout(null);
 		
 		JLabel lblLogin = new JLabel("username");
-		lblLogin.setBounds(41, 52, 69, 35);
+		lblLogin.setBounds(12, 155, 69, 35);
 		contentPane.add(lblLogin);
 		
 		JLabel lblPassword = new JLabel("Password");
-		lblPassword.setBounds(41, 103, 69, 35);
+		lblPassword.setBounds(12, 200, 69, 35);
 		contentPane.add(lblPassword);
 		
 		tfUsername = new JTextField();
-		tfUsername.setBounds(157, 52, 176, 35);
+		tfUsername.setBounds(80, 155, 176, 35);
 		contentPane.add(tfUsername);
 		tfUsername.setColumns(10);
 		
 		joinBtn = new JButton("회원가입");
-		joinBtn.setBounds(229, 154, 104, 29);
+		joinBtn.setBounds(268, 203, 104, 29);
 		contentPane.add(joinBtn);
 		
 		loginBtn = new JButton("로그인");
-		loginBtn.setBounds(108, 154, 106, 29);
+		loginBtn.setBounds(268, 158, 104, 29);
 		contentPane.add(loginBtn);
 		
 		tfPassword = new JTextField();
 		tfPassword.setColumns(10);
-		tfPassword.setBounds(157, 103, 176, 35);
+		tfPassword.setBounds(80, 200, 176, 35);
 		contentPane.add(tfPassword);
 		
 		setVisible(true);

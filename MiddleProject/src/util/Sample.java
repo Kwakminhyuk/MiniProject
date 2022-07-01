@@ -26,28 +26,28 @@ public class Sample {
 	
 	public static Vector<Member> getMembers(){
 		Vector<Member> members = new Vector<>();
-		members.add(new Member(1,"ssarmango","bitc5600","jooho","ssar@nate.com", "01022228888", Time.localDateTimeToTimeStamp(LocalDateTime.now())));
-		members.add(new Member(2,"ssarmango","bitc5600","jooho","ssar@nate.com", "01022228888", Time.localDateTimeToTimeStamp(LocalDateTime.now())));
-		members.add(new Member(3,"ssarmango","bitc5600","jooho","ssar@nate.com", "01022228888", Time.localDateTimeToTimeStamp(LocalDateTime.now())));
-		members.add(new Member(4,"ssarmango","bitc5600","jooho","ssar@nate.com", "01022228888", Time.localDateTimeToTimeStamp(LocalDateTime.now())));
-		members.add(new Member(5,"ssarmango","bitc5600","jooho","ssar@nate.com", "01022228888", Time.localDateTimeToTimeStamp(LocalDateTime.now())));
-		members.add(new Member(6,"ssarmango","bitc5600","jooho","ssar@nate.com", "01022228888", Time.localDateTimeToTimeStamp(LocalDateTime.now())));
-		members.add(new Member(7,"ssarmango","bitc5600","jooho","ssar@nate.com", "01022228888", Time.localDateTimeToTimeStamp(LocalDateTime.now())));
-		members.add(new Member(8,"ssarmango","bitc5600","jooho","ssar@nate.com", "01022228888", Time.localDateTimeToTimeStamp(LocalDateTime.now())));
-		members.add(new Member(9,"ssarmango","bitc5600","jooho","ssar@nate.com", "01022228888", Time.localDateTimeToTimeStamp(LocalDateTime.now())));
-		members.add(new Member(10,"ssarmango","bitc5600","jooho","ssar@nate.com", "01022228888", Time.localDateTimeToTimeStamp(LocalDateTime.now())));
-		members.add(new Member(11,"ssarmango","bitc5600","jooho","ssar@nate.com", "01022228888", Time.localDateTimeToTimeStamp(LocalDateTime.now())));
-		members.add(new Member(12,"ssarmango","bitc5600","jooho","ssar@nate.com", "01022228888", Time.localDateTimeToTimeStamp(LocalDateTime.now())));
-		members.add(new Member(13,"ssarmango","bitc5600","jooho","ssar@nate.com", "01022228888", Time.localDateTimeToTimeStamp(LocalDateTime.now())));
-		members.add(new Member(14,"ssarmango","bitc5600","jooho","ssar@nate.com", "01022228888", Time.localDateTimeToTimeStamp(LocalDateTime.now())));
-		members.add(new Member(15,"ssarmango","bitc5600","jooho","ssar@nate.com", "01022228888", Time.localDateTimeToTimeStamp(LocalDateTime.now())));
-		members.add(new Member(16,"ssarmango","bitc5600","jooho","ssar@nate.com", "01022228888", Time.localDateTimeToTimeStamp(LocalDateTime.now())));
-		members.add(new Member(17,"ssarmango","bitc5600","jooho","ssar@nate.com", "01022228888", Time.localDateTimeToTimeStamp(LocalDateTime.now())));
-		members.add(new Member(18,"ssarmango","bitc5600","jooho","ssar@nate.com", "01022228888", Time.localDateTimeToTimeStamp(LocalDateTime.now())));
-		members.add(new Member(19,"ssarmango","bitc5600","jooho","ssar@nate.com", "01022228888", Time.localDateTimeToTimeStamp(LocalDateTime.now())));
-		members.add(new Member(20,"ssarmango","bitc5600","jooho","ssar@nate.com", "01022228888", Time.localDateTimeToTimeStamp(LocalDateTime.now())));
-		members.add(new Member(21,"ssarmango","bitc5600","jooho","ssar@nate.com", "01022228888", Time.localDateTimeToTimeStamp(LocalDateTime.now())));
-		members.add(new Member(22,"ssarmango","bitc5600","jooho","ssar@nate.com", "01022228888", Time.localDateTimeToTimeStamp(LocalDateTime.now())));
+		members.add(new Member(1,"summer","min7515","minhyuk","minhyuk@naver.com", "01022228888", Time.localDateTimeToTimeStamp(LocalDateTime.now())));
+		members.add(new Member(2,"summer","min7515","minhyuk","minhyuk@naver.com", "01022228888", Time.localDateTimeToTimeStamp(LocalDateTime.now())));
+		members.add(new Member(3,"summer","min7515","minhyuk","minhyuk@naver.com", "01022228888", Time.localDateTimeToTimeStamp(LocalDateTime.now())));
+		members.add(new Member(4,"summer","min7515","minhyuk","minhyuk@naver.com", "01022228888", Time.localDateTimeToTimeStamp(LocalDateTime.now())));
+		members.add(new Member(5,"summer","min7515","minhyuk","minhyuk@naver.com", "01022228888", Time.localDateTimeToTimeStamp(LocalDateTime.now())));
+		members.add(new Member(6,"summer","min7515","minhyuk","minhyuk@naver.com", "01022228888", Time.localDateTimeToTimeStamp(LocalDateTime.now())));
+		members.add(new Member(7,"summer","min7515","minhyuk","minhyuk@naver.com", "01022228888", Time.localDateTimeToTimeStamp(LocalDateTime.now())));
+		members.add(new Member(8,"summer","min7515","minhyuk","minhyuk@naver.com", "01022228888", Time.localDateTimeToTimeStamp(LocalDateTime.now())));
+		members.add(new Member(9,"summer","min7515","minhyuk","minhyuk@naver.com", "01022228888", Time.localDateTimeToTimeStamp(LocalDateTime.now())));
+		members.add(new Member(10,"summer","min7515","minhyuk","minhyuk@naver.com", "01022228888", Time.localDateTimeToTimeStamp(LocalDateTime.now())));
+		members.add(new Member(11,"summer","min7515","minhyuk","minhyuk@naver.com", "01022228888", Time.localDateTimeToTimeStamp(LocalDateTime.now())));
+		members.add(new Member(12,"summer","min7515","minhyuk","minhyuk@naver.com", "01022228888", Time.localDateTimeToTimeStamp(LocalDateTime.now())));
+		members.add(new Member(13,"summer","min7515","minhyuk","minhyuk@naver.com", "01022228888", Time.localDateTimeToTimeStamp(LocalDateTime.now())));
+		members.add(new Member(14,"summer","min7515","minhyuk","minhyuk@naver.com", "01022228888", Time.localDateTimeToTimeStamp(LocalDateTime.now())));
+		members.add(new Member(15,"summer","min7515","minhyuk","minhyuk@naver.com", "01022228888", Time.localDateTimeToTimeStamp(LocalDateTime.now())));
+		members.add(new Member(16,"summer","min7515","minhyuk","minhyuk@naver.com", "01022228888", Time.localDateTimeToTimeStamp(LocalDateTime.now())));
+		members.add(new Member(17,"summer","min7515","minhyuk","minhyuk@naver.com", "01022228888", Time.localDateTimeToTimeStamp(LocalDateTime.now())));
+		members.add(new Member(18,"summer","min7515","minhyuk","minhyuk@naver.com", "01022228888", Time.localDateTimeToTimeStamp(LocalDateTime.now())));
+		members.add(new Member(19,"summer","min7515","minhyuk","minhyuk@naver.com", "01022228888", Time.localDateTimeToTimeStamp(LocalDateTime.now())));
+		members.add(new Member(20,"summer","min7515","minhyuk","minhyuk@naver.com", "01022228888", Time.localDateTimeToTimeStamp(LocalDateTime.now())));
+		members.add(new Member(21,"summer","min7515","minhyuk","minhyuk@naver.com", "01022228888", Time.localDateTimeToTimeStamp(LocalDateTime.now())));
+		members.add(new Member(22,"summer","min7515","minhyuk","minhyuk@naver.com", "01022228888", Time.localDateTimeToTimeStamp(LocalDateTime.now())));
 		
 		return members;
 	}

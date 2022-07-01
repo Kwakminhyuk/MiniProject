@@ -77,11 +77,9 @@ public class MemberDao {
 				members.add(member);
 			}
 			return members;
-	
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
-
 		return null;
 	}
 }
